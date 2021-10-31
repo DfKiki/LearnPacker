@@ -2,5 +2,5 @@
 # Learn Packer
 This repo was put together as part of my YouTube tutorials for Learn Packer series.
 
-
-[1. What is Packer?](./1-What\ is\ Packer/README.md)
+## Lessons:
+[1. What is Packer?](./1-WhatIsPacker/README.md)
